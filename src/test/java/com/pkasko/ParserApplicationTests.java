@@ -1,4 +1,4 @@
-package com.pkasko.metrics.parser;
+package com.pkasko;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
